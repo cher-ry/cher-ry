@@ -2,13 +2,16 @@
 <h1 align="center">Hi 👋, I'm Choduraa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <h4>I'm a big fan of:</h4>
+ <p align="left">
 - ☕ coffee
  <p align="left">
 - 🌇 sunsets
+ <p align="left">
+- 🎥 romantic movies
 
 
 
-- 📫 How to reach me **choduraatyulyush@mail.ru**
+- 📫 How to reach me **tiuliush.job@mail.ru**
 
 
 <p align="left">
